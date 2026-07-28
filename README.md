@@ -2,7 +2,7 @@
 
 **Process Automation · Business Analytics · Continuous Improvement**
 
-🌐 **English** | [Português](README-PTBR.md)
+🌐 **English** | [Português](README_PTBR.md)
 
 > Real-world case studies where I turned manual, error-prone operations into scalable solutions — measured by business impact, not lines of code.
 
