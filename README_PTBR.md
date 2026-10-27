@@ -21,11 +21,11 @@ A maior parte do meu trabalho vem de **Sales Operations na Continental Tires**, 
 | # | Projeto | Foco | Resultado Principal | Status |
 |---|---------|------|---------------------|--------|
 | 01 | Geração Automática de ProFormas | SAP · RPA | **308+ h/ano economizadas** | 🟢 Produção |
-| 02 | Automação de Pagamentos PIX | M365 · Workflow | Follow-up automático e rastreabilidade total | 🟢 Ativo |
-| 03 | Database de Clientes Ativos & BI | RPA · Power BI | Base viva + dashboards geo/operacional | 🟡 MVP |
-| 04 | Verificação de Status do Cliente | Dados | Checagem automática ativo/inativo | 🟡 Em construção |
-| 05 | Reset de Senha Contilink | Forms · Flow | Fim do envio manual de credenciais | 🟢 Concluído |
-| 06 | Transição de Shipping Condition | SAP · RPA | Alteração em massa, zero toque manual | 🟢 Ativo |
+| 02 | Automação de Pagamentos PIX | M365 · Workflow | Follow-up automático e rastreabilidade total | 🟢 Produção |
+| 03 | Database de Clientes Ativos & BI | RPA · Power BI | Base viva + dashboards geo/operacional | 🟢 Produção |
+| 04 | Verificação de Status do Cliente | Dados | Checagem automática ativo/inativo | 🟢 Produção |
+| 05 | Reset de Senha Contilink | Forms · Flow | Fim do envio manual de credenciais | 🟢 Produção |
+| 06 | Transição de Shipping Condition | SAP · RPA | Alteração em massa, zero toque manual | 🟢 Produção |
 
 ---
 
