@@ -21,11 +21,11 @@ Most of my work comes from **Sales Operations at Continental Tires**, where I've
 | # | Project | Focus | Headline Result | Status |
 |---|---------|-------|-----------------|--------|
 | 01 | Automated ProForma Generation | SAP · RPA | **308+ hrs/year saved** | 🟢 Production |
-| 02 | Advance PIX Payment Automation | M365 · Workflow | Automated follow-up & full traceability | 🟢 Live |
-| 03 | Active Customer Database & BI | RPA · Power BI | Live customer base + geo/ops dashboards | 🟡 MVP |
-| 04 | Customer Status Verification | Data | Automated active/inactive check | 🟡 Building |
-| 05 | Contilink Password Reset | Forms · Flow | Manual credential handling eliminated | 🟢 Completed |
-| 06 | Shipping Condition Transition | SAP · RPA | Mass order updates, zero manual touch | 🟢 Live |
+| 02 | Advance PIX Payment Automation | M365 · Workflow | Automated follow-up & full traceability | 🟢 Production |
+| 03 | Active Customer Database & BI | RPA · Power BI | Live customer base + geo/ops dashboards | 🟢 Production |
+| 04 | Customer Status Verification | Data | Automated active/inactive check | 🟢 Production |
+| 05 | Contilink Password Reset | Forms · Flow | Manual credential handling eliminated | 🟢 Production |
+| 06 | Shipping Condition Transition | SAP · RPA | Mass order updates, zero manual touch | 🟢 Production |
 
 ---
 
